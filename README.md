@@ -3,7 +3,7 @@
 - 👀 I’m interested in gamemaking, game/rendering/physics engine
 - 🌱 I’m currently learning computer sciences.
 - 🌲 I'm working on a game library for my games.
-- 📫 To reach me, send me a private message on Twitter[@Louvtt].
+- 📫 To reach me, send me a private message on [Twitter](twitter.com/Louvtt) or on [Mastodon](tech.lgbt/web/@Louvtt).
 
 
 <!---
