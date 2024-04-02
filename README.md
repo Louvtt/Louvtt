@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning computer sciences.
 - 🌲 I'm working on a game library/engine to learn more about OOP and C++.
 - 📫 To reach me, send me a mail at [louvttgames@gmail.com](mailto:louvttgames@gmail.com).
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louvtt&layout=compact)
